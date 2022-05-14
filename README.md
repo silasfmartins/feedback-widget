@@ -43,9 +43,9 @@ Em seguida, inicie o projeto.
 npm run dev
 ```
 
-## Projeto no arquivo
+## Projeto no ar
 
-É possível acessar a aplicação através da URL: https://feedback-widget-mtrooyar0-silasfmartins.vercel.app/ .
+É possível acessar a aplicação através da URL: https://feedback-widget-gold.vercel.app/ .
 
 
 ## 📄 Licença
