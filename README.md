@@ -27,10 +27,8 @@ Aplicativo que simula um Feedback Widget.
 
 ## :hammer_and_wrench: Features 
 
--   [ ] É enviado para os desenvolvedores um feedback sobre o site;
 -   [ ] O feedback pode ser um BUG, Ideia ou Outro;
 -   [ ] É possível digitar um texto e tirar print da tela ao enviar o feedback;
--   [ ] O feedback chega até o email dos desenvolvedores;
 -   [ ] É possível enviar novos feedbacks;.
 
 
