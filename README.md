@@ -29,7 +29,8 @@ Aplicativo que simula um Feedback Widget.
 
 -   [ ] O feedback pode ser um BUG, Ideia ou Outro;
 -   [ ] É possível digitar um texto e tirar print da tela ao enviar o feedback;
--   [ ] É possível enviar novos feedbacks;.
+-   [ ] É possível enviar novos feedbacks;
+-   [ ] Tudo é armazenado em um banco de dados.
 
 
 ## Executando o projeto
