@@ -59,7 +59,7 @@ export function WidgetForm() {
         </>
       ) }
       <footer>
-        Feito com ♥ pela <a className="underline underline-offset-2" href="https://rocketseat.com.br">Rocketseat</a>
+        <span>Feito por Silas Martins</span>
       </footer>
     </div>
   )
