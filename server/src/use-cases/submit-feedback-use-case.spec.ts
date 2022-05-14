@@ -5,6 +5,7 @@ const sendMailSpy = jest.fn();
 
 const submitFeedback = new SubmitFeedbackUseCase(
   { create: createFeedbackSpy },
+  { sendMail: sendMailSpy }
 )
 
 describe('Submit feedback', () => {
